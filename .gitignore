@@ -1,0 +1,10 @@
+﻿# personal
+需求文档.md
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+# editors
+.vscode/
+.idea/
+*.swp
